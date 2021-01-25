@@ -13,6 +13,10 @@ routes.get('/teachers/create', function(req,res){
     return res.render('teachers/create')
 })
 
+routes.post('/teachers', function(req,res){
+    return res.send(req.body)
+})
+
 routes.get('/students', function(req,res){
     return res.redirect('/students')
 })
