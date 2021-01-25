@@ -1,0 +1,24 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "avatar_URL": "http://www.google.com.br",
+      "name": "Pedro Henrique Fernandes Souza",
+      "birth": 1010188800000,
+      "educational_level": "doctorate",
+      "type_of_class": "EAD",
+      "ocupation": "Desenvolvedor Web",
+      "created_at": 1611600614146
+    },
+    {
+      "id": 2,
+      "avatar_URL": "http://www.google.com.br",
+      "name": "Luizinha",
+      "birth": 1070582400000,
+      "educational_level": "master",
+      "type_of_class": "EAD",
+      "ocupation": "Inteligência Artificial",
+      "created_at": 1611600643808
+    }
+  ]
+}
