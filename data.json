@@ -19,6 +19,16 @@
       "type_of_class": "EAD",
       "ocupation": "Inteligência Artificial",
       "created_at": 1611600643808
+    },
+    {
+      "id": 3,
+      "avatar_URL": "http://www.google.com.br",
+      "name": "Thiago Souza Galhardo",
+      "birth": 818553600000,
+      "educational_level": "University_education",
+      "type_of_class": "Presencial",
+      "ocupation": "Ciência de dados",
+      "created_at": 1612386367763
     }
   ]
 }
